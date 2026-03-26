@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Raw CMS download (large)
+data/timely_effective_care.csv
+
+# OS
+.DS_Store
