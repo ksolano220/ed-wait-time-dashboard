@@ -42,10 +42,10 @@ streamlit run app.py
 ```
 
 ### Key Findings
-- National median ED wait is **148 minutes** (nearly 2.5 hours)
-- High-volume EDs have **significantly longer waits** than low-volume facilities
-- Wait time correlates with left-before-seen rates — longer waits mean more patients leave
-- Several states (MD, DC, NJ) consistently rank among the longest waits
+- National median ED wait is **148 minutes** (nearly 2.5 hours). Baseline is already bad enough that half of US EDs would fail most private-market SLAs.
+- **High-volume EDs have significantly longer waits** than low-volume facilities. Throughput bottlenecks are structural, not just peak-hour spikes, which suggests capacity and staffing ratios are the lever, not triage workflow.
+- Wait time correlates with **left-before-seen (LBS) rates**. Longer waits mean more patients leave without care. LBS is a useful proxy for unmet demand and a revenue loss signal for administrators.
+- **MD, DC, and NJ consistently rank among the longest waits.** Wait-time leaders cluster around the dense Northeast corridor, which suggests capacity investment is lagging population density in those markets.
 
 ### Tools Used
 - Python, Streamlit, Plotly, pandas
