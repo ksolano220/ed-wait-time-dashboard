@@ -1,6 +1,12 @@
 ## Emergency Department Wait Times Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ksolano220-ed-wait-times.streamlit.app/)
+
 Interactive Streamlit dashboard analyzing ED wait times across **4,000+ US hospitals** using CMS Timely and Effective Care data.
+
+### Live Demo
+
+[ksolano220-ed-wait-times.streamlit.app](https://ksolano220-ed-wait-times.streamlit.app/)
 
 ### Features
 - **Choropleth map** of median wait times by state
