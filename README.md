@@ -17,7 +17,7 @@ Interactive Streamlit dashboard analyzing ED wait times across **4,000+ US hospi
 - **Hospital detail tables** for longest and shortest waits
 
 ### Data Source
-[CMS Timely and Effective Care — Hospital](https://data.cms.gov/provider-data/dataset/yv7e-xc69) (2024–2025 reporting period)
+[CMS Timely and Effective Care: Hospital](https://data.cms.gov/provider-data/dataset/yv7e-xc69) (2024–2025 reporting period)
 
 Key measures:
 | Measure | Description |
