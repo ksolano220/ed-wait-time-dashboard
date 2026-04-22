@@ -5,7 +5,6 @@ import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="ED Wait Times Dashboard",
-    page_icon="🏥",
     layout="wide",
 )
 
